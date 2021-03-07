@@ -1,4 +1,4 @@
-﻿// ExportToExcel/Services/ExportViewModels/ReligionExportViewModel.cs
+﻿// ExportToExcel/ExportToExcel.Services/ExportViewModels/ReligionExportViewModel.cs
 
 namespace ExportToExcel.Services.ExportViewModels
 {

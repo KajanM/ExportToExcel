@@ -1,4 +1,4 @@
-﻿// ExportToExcel/Services/ExportViewModels/StudentExportViewModel.cs
+﻿// ExportToExcel/ExportToExcel.Services/ExportViewModels/StudentExportViewModel.cs
 
 using System;
 using OfficeOpenXml.Attributes;
