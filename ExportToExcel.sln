@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportToExcel.Services", "ExportToExcel.Services\ExportToExcel.Services.csproj", "{E179A5F6-635B-41FB-8AF9-143545FE904B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportToExcel.UnitTests", "ExportToExcel.UnitTests\ExportToExcel.UnitTests.csproj", "{DE3B7822-F387-441F-B1CB-A44341E3C7C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{E179A5F6-635B-41FB-8AF9-143545FE904B}.Release|x64.Build.0 = Release|Any CPU
 		{E179A5F6-635B-41FB-8AF9-143545FE904B}.Release|x86.ActiveCfg = Release|Any CPU
 		{E179A5F6-635B-41FB-8AF9-143545FE904B}.Release|x86.Build.0 = Release|Any CPU
+		{DE3B7822-F387-441F-B1CB-A44341E3C7C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE3B7822-F387-441F-B1CB-A44341E3C7C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE3B7822-F387-441F-B1CB-A44341E3C7C8}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DE3B7822-F387-441F-B1CB-A44341E3C7C8}.Debug|x64.Build.0 = Debug|Any CPU
+		{DE3B7822-F387-441F-B1CB-A44341E3C7C8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DE3B7822-F387-441F-B1CB-A44341E3C7C8}.Debug|x86.Build.0 = Debug|Any CPU
+		{DE3B7822-F387-441F-B1CB-A44341E3C7C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE3B7822-F387-441F-B1CB-A44341E3C7C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE3B7822-F387-441F-B1CB-A44341E3C7C8}.Release|x64.ActiveCfg = Release|Any CPU
+		{DE3B7822-F387-441F-B1CB-A44341E3C7C8}.Release|x64.Build.0 = Release|Any CPU
+		{DE3B7822-F387-441F-B1CB-A44341E3C7C8}.Release|x86.ActiveCfg = Release|Any CPU
+		{DE3B7822-F387-441F-B1CB-A44341E3C7C8}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
