@@ -11,10 +11,11 @@ namespace ExportToExcel.Services.ExportViewModels
         Female
     }
     
+    [EpplusTable]
     public class StudentExportViewModel
     {
         
-        [EpplusTableColumn]
+        // [EpplusTableColumn]
         [EpplusIgnore]
         public string Id { get; set; }
 
